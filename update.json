@@ -1,0 +1,10 @@
+{
+  "app": "PriceTracker",
+  "version": "0.5.0",
+  "released": "2026-10-06",
+  "download_url": "https://github.com/swelgem-ctrl/PriceTracker/releases/latest",
+  "notes": {
+    "en": "High-DPI support (automatic or chosen interface size), tabbed Settings, built-in Help (F1), built-in settings.ini editor with settings import/export, error.log for problems, and a build script for a portable PriceTracker.exe.",
+    "ar": "دعم الشاشات عالية الدقة (تلقائي أو بحجم تختاره)، إعدادات مبوّبة، مساعدة مدمجة (F1)، محرر settings.ini داخل البرنامج مع استيراد وتصدير الإعدادات، ملف error.log للمشاكل، وسكربت لبناء PriceTracker.exe محمول."
+  }
+}
