@@ -1,13 +1,13 @@
 {
   "name": "PriceTracker",
-  "version": "0.5.0",
-  "released": "2026-10-06",
+  "version": "0.9.0",
+  "released": "2026-10-12",
   "channel": "stable",
   "download_url": "https://github.com/swelgem-ctrl/PriceTracker/releases/latest",
   "release_notes": [
-    "High-DPI support with an adjustable interface size.",
-    "Tabbed Settings, built-in Help (F1) and a settings.ini editor.",
-    "Settings import/export and an error.log for diagnostics.",
-    "Build script for a portable PriceTracker.exe."
+    "Self-check: one click (Help or About) runs 16 health checks and gives a shareable, private report.",
+    "The main window remembers its position, size and maximized state, including on a second monitor.",
+    "If a saved monitor is no longer connected, the window opens centered on the main screen.",
+    "Command line: selfcheck writes data/selfcheck.txt."
   ]
 }
